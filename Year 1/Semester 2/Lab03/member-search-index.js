@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Student","l":"calculateGPA(double[])"},{"p":"<Unnamed>","c":"Student","l":"printInfo()"},{"p":"<Unnamed>","c":"Student","l":"readInfo()"},{"p":"<Unnamed>","c":"Student","l":"Student()","u":"%3Cinit%3E()"}];updateSearchResults();
