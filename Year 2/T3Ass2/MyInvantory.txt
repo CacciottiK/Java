@@ -1,0 +1,21 @@
+f
+ 111
+granny smith
+234
+0.1
+0.25
+Niagra orch
+p
+ 112
+berry jam
+35
+2.24
+5.0
+250
+v
+ 222
+hot house
+500
+0.15
+0.33
+mcdonal's

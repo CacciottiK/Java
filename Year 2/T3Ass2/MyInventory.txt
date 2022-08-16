@@ -1,0 +1,21 @@
+f
+ 111
+Granny Smith
+234
+0.1
+0.25
+Niagra Orch
+p
+ 112
+Strawberry farm
+35
+2.24
+5.0
+250
+v
+ 222
+Hot House
+500
+0.15
+0.33
+Mcdonal's farm
