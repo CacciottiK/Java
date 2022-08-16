@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/db/derby/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/db/derby/lib/derbytools.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/db/derby/lib/derbyoptionaltools.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/db/derby/lib/derbyshared.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/db/derby/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/db/derby/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/dev/LIBS/jar/hibernate-core-5.6.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/dev/LIBS/jar/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/SOFT/COPY/dev/LIBS/jar/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jfx"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
