@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Controller","l":"KeyControl"},{"p":"Model","l":"PresetGrids"},{"p":"View","l":"Skeleton"},{"p":"Model","l":"SudGrid"},{"p":"Model","l":"SudokuDriver"}];updateSearchResults();
